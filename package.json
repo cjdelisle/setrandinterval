@@ -1,0 +1,14 @@
+{
+    "name": "setrandominterval",
+    "description": "Implementation of setInterval() with randomized interval times",
+    "version": "0.0.0",
+    "repository": "https://github.com/cjdelisle/setrandominterval.git",
+    "license": "MIT",
+    "devDependencies": {
+        "jshint": "~2.9.1"
+    },
+    "scripts": {
+        "lint": "jshint --verbose --config .jshintrc --exclude-path .jshintignore .",
+        "test": "echo 'no tests'"
+    }
+}
