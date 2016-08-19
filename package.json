@@ -1,5 +1,5 @@
 {
-    "name": "setrandominterval",
+    "name": "setrandinterval",
     "description": "Implementation of setInterval() with randomized interval times",
     "version": "0.0.0",
     "repository": "https://github.com/cjdelisle/setrandominterval.git",
