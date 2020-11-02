@@ -1,5 +1,7 @@
 # setRandInterval() Execute a function at a randomized interval.
 
+Status: stable+unmaintained, open an issue if you would like to take over
+
 If you are doing some repeating operation like accessing a website, especially
 if you have multiple pages which need to be repeatedly accessed, to reduce load
 on the server you want to access them at different times. `setRandInterval()`
